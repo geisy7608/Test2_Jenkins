@@ -16,7 +16,7 @@ public class calculatrice {
      */
     public static void main(String[] args) {
         System.out.println("Test2 Repo_Jenkins");
-        System.out.println("Test2 Repo_Jenkins_MiseAJour");
+        System.out.println("Test2 Repo_Jenkins_MiseAJour1");
     }
     
 }
